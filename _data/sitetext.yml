@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Join the ultimate D&D adventure!
+    text: Etune
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "What can I do in Etune?"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "The First MMO TTRPG Experience"
+        desc: "Etune is the world where Dungeon Masters and Players from all over the world can connect, by world building a common environment, every action impacts Etune and each of its players."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "New Joiner Friendly"
+        desc: "No need to learn all the rules of D&D, let Etune Application (EA) guide you so you can focus on enjoying and impersonating your Characters!"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Digitalize D&D"
+        desc: "Etune aims to provide a set of tools that will make D&D more realistic and agile, always preserving the TTRPG experience."
+        icon: fas fa-markdown
 
   portfolio:
     title: "Portfolio"
