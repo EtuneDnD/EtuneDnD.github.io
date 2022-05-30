@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: Homebrew No-Code
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/06-full.jpg
 alt: 
 
 caption:
-  title: Window
+  title: Homebrew
   subtitle: Photography
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---

@@ -1,11 +1,11 @@
 ---
-title: Project Name
+title: Guild Builder
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
+  title: Join a Guild
   subtitle: Branding
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
