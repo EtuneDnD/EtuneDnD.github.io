@@ -1,15 +1,27 @@
 ---
 title: Quest Board
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+subtitle: Connect Dungeon Masters with Players. Make new friends and go into adventure with them.
+image: assets/img/new/portfolio/quest-board.webp
+alt: Quest Board
 
 caption:
   title: Quest Board
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  subtitle: Connect Dungeon Masters with Players
+  thumbnail: assets/img/new/portfolio/quest-board.webp
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+Let's start by taking a look to this conversation, I'm sure you are familiar with it:
+
+“I would love to try DnD, but i don’t have friends…”\
+“I am a dm and I have a game running, join us”\
+“But it’s too complicated!”\
+“It’s not, i will guide you”\
+“I don’t have time!”\
+“We only play once a month”\
+“But i don’t know how to roleplay…”\
+“No one knows!”\
+“Well, I will think about it…”\
+
 
 {:.list-inline}
 - Date: January 2017

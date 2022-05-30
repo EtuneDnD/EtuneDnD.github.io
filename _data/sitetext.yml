@@ -17,18 +17,21 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "What can I do in Etune?"
-    text: "Lorem ipsum"
+    title: "Why Etune?"
+    text: "Because Etune will <b>guide</b> you.<br>
+          Because here, in Etune, you are <b>not alone</b><br>
+          Because anyone should have the <b>opportunity</b> to play D&D.<br><br>
+          Because your <b>actions</b> build Etune."
     section: services
     list:
       - title: "Digitalize D&D"
         desc: "Etune aims to provide a set of tools that will make D&D more realistic and agile, always preserving the TTRPG experience."
         icon: fas fa-laptop
       - title: "MMO TTRPG Experience"
-        desc: "Etune is the world where Dungeon Masters and Players from all over the world can connect, by world building a common environment, every action impacts Etune and each of its players."
+        desc: "Etune is the world where Dungeon Masters and Players from all over the world can connect, by world building a common environment, every action impacts Etune and each one of its players."
         icon: fas fa-globe #find more at https://fontawesome.com/icons
       - title: "New Joiner Friendly"
-        desc: "No need to learn all the rules of D&D, let Etune Application (EA) guide you so you can focus on enjoying and impersonating your Characters!"
+        desc: "No need to learn all the rules of D&D, let Etune guide you so you can focus on enjoying and impersonating your Characters!"
         icon: fas fa-dice-d20
 
   portfolio:

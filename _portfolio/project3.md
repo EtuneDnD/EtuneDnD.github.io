@@ -1,13 +1,13 @@
 ---
 title: Combat Tracker
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+image: assets/img/new/portfolio/combat-tracker-full.png
 alt: 
 
 caption:
   title: Combat Tracker
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  subtitle: Focus on what matters
+  thumbnail: assets/img/new/portfolio/combat-tracker.png
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
