@@ -38,3 +38,6 @@ If you are a casual Player then don't worry about registering your D&D Character
 
 Keep in mind that If you don't register your Character in Etune we won't be able to track the progress and you will lose rewards...
 
+### Note
+
+Please any questions or suggestions are welcome, join the discord!

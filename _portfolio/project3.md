@@ -31,3 +31,7 @@ Of course it is, and the Combat Tracker will never limit the experience of an or
 Dungeon Masters will be able to affect however they consider each stat and each throw of each creature, I know from experience that sometimes some balancing has to be made in combat to keep safe our players... 
 
 Let's be honest, this was intended to use the other way aorund, you will be able to add those 100 HP that the wizzard deleted from your BBEG that actually was 80 HP maximum... But don't worry! Just a breath deeply and... Voilá! Your BBEG is now 300 HP!
+
+### Note
+
+Please any questions or suggestions are welcome, join the discord!
