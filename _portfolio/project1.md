@@ -10,21 +10,39 @@ caption:
   thumbnail: assets/img/new/portfolio/quest-board.webp
 ---
 
-Let's start by taking a look to this conversation, I'm sure you are familiar with it:
 
-“I would love to try DnD, but i don’t have friends…”\
-“I am a dm and I have a game running, join us”\
-“But it’s too complicated!”\
-“It’s not, i will guide you”\
-“I don’t have time!”\
-“We only play once a month”\
-“But i don’t know how to roleplay…”\
-“No one knows!”\
-“Well, I will think about it…”\
+### What is the Quest Board?
+
+The Quest Board is the meeting point between all Players and Dungeon Masters, it's the tool that connects each one of us.
+
+Dungeon Masters will create Quests that after reviwed by other Dungeon Masters will be published in the Quest Board.
+
+Players will be able to check all the Quests and apply to the ones that they are interested in. 
+
+Each Quest will reward the party with several rewards like experience, objects and resources that can be used to improve the Guild.
+
+If you entered Etune with friends don't worry, you can create a party beforehand and apply to the Quest all together!
+
+On the other hand, if you started your adventure in Etune alone, you will not be lonely for much time! Just apply to a Quest, and meet new firends while fighting monsters or discovering mysterious plots with them.
 
 
-{:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+### Which are the advantages of having the Quest Board?
 
+There are several advantages like:
+
+- If you join Etune alone the Quest Board will be the best way to get to know new Players!
+
+- If you like D&D but you don't really have time, just find a shor quest / one-shot that will fit in your busy calendar.
+
+- As a DM, you can offer your creativity to other Players by creating Quests for them.
+
+- As a DM, you will join an awesome community of other Dungeon Masters that will help you to create your own Quests.
+
+
+### This conversation is not an excuse anymore!
+
+![alt text](../assets/img/new/portfolio/questboard/dm-player-conversation.png "Title")
+
+### Note
+
+Please any questions or suggestions are welcome, join the discord!
