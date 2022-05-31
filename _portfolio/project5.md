@@ -1,6 +1,6 @@
 ---
 title: Passive Playing
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Improve your Characters and the Guild while you are away.
 image: assets/img/new/portfolio/passive-playing.jpg
 alt: 
 
