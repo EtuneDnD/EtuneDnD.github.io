@@ -101,7 +101,7 @@ en: &DEFAULT_EN
   team:
     title: "JOIN US"
     text: "This project is currently Work In Progress, join the community!"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 
     section: team
     people:
       - name: "Discord"
