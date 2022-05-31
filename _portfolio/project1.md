@@ -10,7 +10,6 @@ caption:
   thumbnail: assets/img/new/portfolio/quest-board.webp
 ---
 
-
 ### What is the Quest Board?
 
 The Quest Board is the meeting point between all Players and Dungeon Masters, it's the tool that connects each one of us.
