@@ -107,12 +107,6 @@ en: &DEFAULT_EN
       - name: "Discord"
         role: "Lead Designer"
         image: assets/img/new/joinus/discord-logo.png
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/new/joinus/discord-logo.png
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/new/joinus/discord-logo.png
 
   contact:
     title: "Contact Us"
