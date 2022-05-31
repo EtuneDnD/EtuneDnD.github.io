@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: services
     - title: "Features"
       section: portfolio
-    - title: "About"
+    - title: "Motivation"
       section: about
     - title: "Roadmap"
       section: timeline

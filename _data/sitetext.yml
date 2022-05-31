@@ -72,9 +72,12 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "Our motivation"
+    text: "our values"
+    body: "
+    Etune was borned under the idea of giving a chance to all the people that wanted to try D&D.<br><br> 
+    Many of the new joiners can't play D&D because they don't have enough friends interested, time, or mechanics look complicated. <br><br> 
+    Last but not least, the D&D community is amazing but it's divided in small groups of Players. <br><br> Maybe it's the time to answer the call and... D&D Players ASSEMBLE! "
     section: about
 
   clients:
