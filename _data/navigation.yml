@@ -17,9 +17,9 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Motivation"
       section: about
-    - title: "Roadmap"
-      section: timeline
-    - title: "Team"
+    #- title: "Roadmap"
+    #  section: timeline
+    - title: "Etune Needs You"
       section: team
     - title: "Contact"
       section: contact

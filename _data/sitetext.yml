@@ -72,8 +72,8 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "Our motivation"
-    text: "our values"
+    title: "Motivation"
+    text: "The motivation behind Etune"
     body: "
     Etune was borned under the idea of giving a chance to all the people that wanted to try D&D.<br><br> 
     Many of the new joiners can't play D&D because they don't have enough friends interested, time, or mechanics look complicated. <br><br> 
@@ -82,7 +82,7 @@ en: &DEFAULT_EN
 
   clients:
     section: clients
-    max-height: 100px
+    max-height: 0px
     horizontal-scrolling: "" #"yes/no"
     list:
       # - title: "envato"
@@ -100,13 +100,16 @@ en: &DEFAULT_EN
 
   team:
     title: "JOIN US"
-    text: "This project is currently Work In Progress, join the community!"
+    text: "This project is currently <b>Work In Progress</b>. <br/><br/>
+    If you are a <b>Dungeon Master</b> or a <b>Developer please</b> join the community to help us build Etune! <br/>
+    <b>Players</b>! Do not hesitate to join the community to sugest ideas and be updated about the next Etune releases. <br/>"
     subtext: 
     section: team
     people:
       - name: "Discord"
-        role: "Lead Designer"
+        role: ""
         image: assets/img/new/joinus/discord-logo.png
+        link: "https://discord.gg/7BYvbQwVJU"
 
   contact:
     title: "Contact Us"
@@ -116,8 +119,6 @@ en: &DEFAULT_EN
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
