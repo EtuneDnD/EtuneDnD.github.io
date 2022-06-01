@@ -12,17 +12,20 @@ caption:
 
 ### What is the Quest Board?
 
-The Quest Board is the meeting point between all Players and Dungeon Masters, it's the tool that connects each one of us.
+The **Quest Board** is the meeting point between all **Players** and **Dungeon Masters**. 
 
-Dungeon Masters will create Quests that after reviwed by other Dungeon Masters will be published in the Quest Board.
+It is the tool that **connects** each one of us.
 
-Players will be able to check all the Quests and apply to the ones that they are interested in. 
+**Dungeon Masters** will create *Quests* that will be reviewed by the ***Etune Dungeon Master Community*** and published in the *Quest Board*.
 
-Each Quest will reward the party with several rewards like experience, objects and resources that can be used to improve the Guild.
+**Players** will be able to check all the *Quests* and **apply** to the ones interested in.
 
-If you entered Etune with friends don't worry, you can create a party beforehand and apply to the Quest all together!
+Each *Quest* will **reward** the party with several rewards like **experience**, **objects**, and **resources** to improve the **Guild**.
 
-On the other hand, if you started your adventure in Etune alone, you will not be lonely for much time! Just apply to a Quest, and meet new firends while fighting monsters or discovering mysterious plots with them.
+If you started your adventure in Etune alone, **you will not be lonely** for much time!
+Just apply to a Quest, and meet **new friends** while fighting monsters or discovering mysterious plots with them.
+
+> On the other hand, if you entered Etune with friends don't worry, you can **create a party beforehand** and apply to the Quest **all together**!
 
 
 ### Which are the advantages of having the Quest Board?
@@ -37,10 +40,6 @@ There are several advantages like:
 
 - As a DM, you will join an awesome community of other Dungeon Masters that will help you to create your own Quests.
 
-
-### This conversation is not an excuse anymore!
-
-![alt text](../assets/img/new/portfolio/questboard/dm-player-conversation.png "Title")
 
 ### Note
 
