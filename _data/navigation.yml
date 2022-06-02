@@ -19,7 +19,7 @@ en: &DEFAULT_EN
       section: about
     #- title: "Roadmap"
     #  section: timeline
-    - title: "Etune Needs You"
+    - title: "Join Us"
       section: team
     - title: "Contact"
       section: contact
