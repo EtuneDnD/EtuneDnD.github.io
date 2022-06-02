@@ -131,7 +131,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://discord.gg/7BYvbQwVJU
         icon: "fab fa-discord"
       - url: https://discord.gg/7BYvbQwVJU
         icon: "fas fa-globe"
