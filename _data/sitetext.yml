@@ -108,8 +108,12 @@ en: &DEFAULT_EN
     people:
       - name: "Discord"
         role: ""
-        image: assets/img/new/joinus/discord-logo.png
+        image: assets/img/new/joinus/discord-logo.jpg
         link: "https://discord.gg/7BYvbQwVJU"
+      - name: "Twitter"
+        role: ""
+        image: assets/img/new/joinus/twitter-logo.png
+        link: "https://twitter.com/Etune_DnD"
 
   contact:
     title: "Contact Us"
@@ -131,6 +135,8 @@ en: &DEFAULT_EN
         icon: "fab fa-discord"
       - url: https://discord.gg/7BYvbQwVJU
         icon: "fas fa-globe"
+      - url: https://twitter.com/Etune_DnD
+        icon: "fab fa-twitter"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
