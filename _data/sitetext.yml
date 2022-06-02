@@ -75,9 +75,9 @@ en: &DEFAULT_EN
     title: "Motivation"
     text: "The motivation behind Etune"
     body: "
-    Etune was borned under the idea of giving a chance to all the people that wanted to try D&D.<br><br> 
-    Many of the new joiners can't play D&D because they don't have enough friends interested, time, or mechanics look complicated. <br><br> 
-    Last but not least, the D&D community is amazing but it's divided in small groups of Players. <br><br> Maybe it's the time to answer the call and... D&D Players ASSEMBLE! "
+    Many of the new joiners can't play D&D because they don't have enough friends interested, time, or mechanics look complicated.<br><br> 
+    Etune was borned under the idea of giving a chance to all the people that wanted to try D&D. <br><br> 
+    Last but not least, the D&D community is amazing but it's divided in small groups of Players. <br><br> Maybe it's the time to answer the call and... <b>D&D Players ASSEMBLE!</b> "
     section: about
 
   clients:
